@@ -2,6 +2,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyenje29)](https://solved.ac/hyenje29/)
 
+[![CodeForces Profile](https://cf.leed.at?id={hyenje29})](https://codeforces.com/profile/{hyenje29})
+
 <!--
 **hyenje/hyenje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
